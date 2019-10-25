@@ -1,0 +1,46 @@
+header{
+    background-color: #4aaaa5;
+    padding: 30px;
+    width: 120px;
+    color: #ffffff;
+    margin-right: auto;
+    font-size: 20px;
+}
+    
+.aboutb{
+    float: right;
+    background-color: #ffffff;
+}
+.portfoliob{
+    float: right;
+    background-color: #ffffff;
+}
+.contactb{
+    float: right;
+    background-color: #ffffff;
+}
+body{
+    margin: auto;
+    width: 960px;
+    height: 960px;
+}
+.footer{
+    background-color: #666666;
+    height: 100px;
+    float: bottom;
+
+}
+.img1{
+    width: 100%;
+     height: auto;
+     float: left;
+}
+.img2{
+    width: 100%;
+  height: auto;
+  float: right;
+}
+.img3{
+    width: 100%;
+    height: auto;
+}

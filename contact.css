@@ -1,0 +1,53 @@
+header{
+    background-color: #4aaaa5;
+    padding: 30px;
+    width: 120px;
+    color: #ffffff;
+    margin-right: auto;
+    font-size: 20px;
+}
+    
+.aboutb{
+    float: right;
+    background-color: #ffffff;
+}
+.portfoliob{
+    float: right;
+    background-color: #ffffff;
+}
+.contactb{
+    float: right;
+    background-color: #ffffff;
+}
+body{
+    margin: auto;
+}
+section{
+    width:960px;
+    height: 960px;
+    margin: auto;
+}
+h2{
+    color:#4aaaa5;
+    text-decoration: underline;
+}
+.footer{
+    background-color: #666666;
+    height: 100px;
+
+}
+textarea{
+    width: 150px;
+    height: 10%;
+    padding: 50px;
+}
+form{
+    background: border-box;
+    background-color: #4aaaa5;
+    height: 950px;
+    width: 1065px;
+}
+.submitb{
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
