@@ -22,25 +22,29 @@ header{
 body{
     margin: auto;
     width: 960px;
-    height: 960px;
+        height: 960px;}
+section{
+    width: 960px;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    height: 750px;
+}
+h2{
+    color:#4aaaa5;
+    text-decoration: underline;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#777777;
+    line-height: 50px;
 }
 .footer{
     background-color: #666666;
     height: 100px;
-    float: bottom;
 
 }
-.img1{
-    width: 100%;
-     height: auto;
-     float: left;
-}
-.img2{
-    width: 100%;
-  height: auto;
-  float: right;
-}
-.img3{
-    width: 100%;
-    height: auto;
+.mainimage{
+    float: left;
+    padding:5px;
+    width:40%;
 }
